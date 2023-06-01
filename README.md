@@ -10,7 +10,7 @@
 
 ## *Тема:* 
 
-#### *Сетевые взаимодействия с применением транспортного протокола TCP*
+#### *Сетевые взаимодействия с применением транспортного протокола UDP*
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### ◉ Требования на 4-5 баллов:
 
-Сами программы расположились [здесь](https://github.com/kamilarakhimova/hse-os-hw3/tree/main/4-5%20баллов).
+Сами программы расположились [здесь](https://github.com/kamilarakhimova/hse-os-hw4/tree/main/4-5%20баллов).
 
 ### *Задача:*
 
@@ -114,7 +114,7 @@ server ip address = <server_ip_address>
 
 ### ◉ Требования на 6-7 баллов:
 
-Сами программы расположились [тут](https://github.com/kamilarakhimova/hse-os-hw3/tree/main/6-7%20баллов).
+Сами программы расположились [тут](https://github.com/kamilarakhimova/hse-os-hw4/tree/main/6-7%20баллов).
 
 ### *Задача:*
 
@@ -208,7 +208,7 @@ server ip address = <server_ip_address>
 
 ### ◉ Требования на 8 баллов:
 
-Сами программы расположились [здесь](https://github.com/kamilarakhimova/hse-os-hw3/tree/main/8%20баллов).
+Сами программы расположились [здесь](https://github.com/kamilarakhimova/hse-os-hw4/tree/main/8%20баллов).
 
 ### *Задача:*
 
